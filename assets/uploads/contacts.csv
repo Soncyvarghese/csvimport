@@ -1,0 +1,2 @@
+type,supplier_business_name,name,prefix,first_name,middle_name,last_name,gender,email,contact_id,city,state,country,zip_code,dob,mobile
+customer,nivya,nivya,Ms,nivya,k,varma,female,noyal@gmail.com,3089,calicut,kerala,india,936325,12-08-1995,9632587415
